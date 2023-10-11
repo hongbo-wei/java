@@ -14,3 +14,10 @@
 - Draw a rectangle on an image
 - Create abstract geometric art using rectangles
 - All filters all together!
+
+#### Commands
+
+    // Compile
+    javac ImageProcess.java
+    // Run
+    java ImageProcess
